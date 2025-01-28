@@ -6,9 +6,9 @@ Welcome to my Cybersecurity Projects repository! This collection showcases a var
 
 - [About Me](#about-me)
 - [Projects](#projects)
-  - [Project 1](#project-1)
+  - [Project 1 Internal Security Audit](#project-1)
 
-  - ...
+    
 - [Skills and Tools](#skills-and-tools)
 - [Contact](#contact)
 
