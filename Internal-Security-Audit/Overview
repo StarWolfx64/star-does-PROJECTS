@@ -1,1 +1,54 @@
+# Internal Security Audit for Botium Toys
+
+## Overview
+
+This repository showcases the process and outcomes of an internal security audit conducted for **Botium Toys**, a fictional company used in the Google Cybersecurity Certificate training program. The audit focuses on evaluating the organization's current security posture, identifying vulnerabilities, and ensuring compliance with relevant regulations such as **PCI DSS** and **GDPR**. The goal is to assess and enhance Botium Toys' security infrastructure, reduce risks, and ensure the company's ongoing compliance with regulatory requirements.
+
+## Project Assignment
+
+As part of the Google Cybersecurity Certificate training, this project involves completing an internal security audit for Botium Toys, which has recently expanded its online presence. The audit will assess the company's security controls, policies, and procedures across multiple domains, including network security, data protection, and compliance practices.
+
+### Key Goals:
+- Evaluate the current **security posture** of Botium Toys.
+- Identify potential **vulnerabilities** and risks.
+- Ensure the organization adheres to necessary **compliance regulations**.
+- Provide **actionable recommendations** to enhance security and mitigate risks.
+- Use industry frameworks, such as **NIST Cybersecurity Framework (CSF)**, to guide the audit process.
+
+## Steps Taken
+
+1. **Establish Audit Scope and Goals**:
+   - Defined the scope of the audit, which includes all physical, digital, and network assets at Botium Toys.
+   - Outlined the goals, focusing on strengthening system controls and ensuring regulatory compliance.
+
+2. **Conduct Risk Assessment**:
+   - Identified potential risks and vulnerabilities related to asset management, network security, and compliance with industry regulations.
+
+3. **Controls Assessment**:
+   - Evaluated existing security controls, including administrative, technical, and physical controls.
+   - Identified areas for improvement, such as lack of encryption for sensitive data, missing IDS, and inadequate password management.
+
+4. **Compliance Assessment**:
+   - Ensured compliance with **PCI DSS** (for handling payment card data) and **GDPR** (for handling E.U. customer data).
+   - Verified policies and procedures to ensure data privacy and protection.
+
+5. **Provide Mitigation Recommendations**:
+   - Developed a detailed plan to address identified vulnerabilities and improve security posture.
+   - Recommended additional controls, such as implementing IDS, improving password policies, and adopting encryption practices.
+
+6. **Communication of Findings**:
+   - Documented audit findings and provided a clear report of identified risks and recommended actions to key stakeholders.
+
+## Tools/Technologies Used
+
+- **NIST Cybersecurity Framework (CSF)**: A set of guidelines for improving the company's cybersecurity posture.
+- **Risk Management Tools**: To assess the severity and likelihood of identified risks.
+- **Compliance Checklists**: For **PCI DSS** and **GDPR** compliance.
+- **Firewall and IDS/IPS Tools**: Used to assess current security measures.
+- **Encryption Standards**: Evaluated encryption practices to ensure the protection of sensitive data.
+- **Password Management Systems**: Assessed the need for centralized password management.
+
+## Conclusion
+
+This project provides a comprehensive view of the internal audit process, focusing on improving security and compliance for Botium Toys. The findings and recommendations outlined in this repository will help enhance the company's overall cybersecurity posture, reduce risks, and ensure that the organization meets the necessary regulatory standards.
 
