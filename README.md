@@ -7,8 +7,7 @@ Welcome to my Cybersecurity Projects repository! This collection showcases a var
 - [About Me](#about-me)
 - [Projects](#projects)
   - [Project 1](#project-1)
-  - [Project 2](#project-2)
-  - [Project 3](#project-3)
+
   - ...
 - [Skills and Tools](#skills-and-tools)
 - [Contact](#contact)
